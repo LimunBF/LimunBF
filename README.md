@@ -4,11 +4,11 @@
     Welcome to my profile
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"><br>
     <!-- Typing Effect -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=04a4fc&center=true&vCenter=true&lines=Lorem+ipsum+dolor+sit+amet;No+JKT+No+Party!!!&font=Fira+Code">
+    <img src="https://readme-typing-svg.herokuapp.com?color=04a4fc&center=true&vCenter=true&lines=Lorem+ipsum+dolor+sit+amet;Without + You + I'm + No + One!&font=Fira+Code">
 </h3>
 
 <h2>About me</h2>
-<p>I'm Ferdy, a Informatics Engineering Student from Indonesia. I’m interested in Backend Development and Cyber Security.</p>
+<p>Hello I'm Limun.</p>
 
 <h2>Tech stack</h2>
 <div align="center">
@@ -31,16 +31,3 @@
 
 </div>
 
-<h2>Stats</h2>
-<div align="center">
-    <!-- Stats Github -->
-    <a href="https://github.com/LimunBF">
-    <img align="center" height="152px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LimunBF&theme=react&show_icons=true&hide_border=false&layout=compact" alt="LimunBF github stats">
-    </a>
-    <a href="https://github.com/LimunBF">
-    <img align="center" height="152px" src="https://github-readme-stats.vercel.app/api?username=LimunBF&theme=react&show_icons=true&hide_border=false&count_private=false" alt="LimunBF's github stats">
-    </a>
-    <a href="https://github.com/RaihanFerdy">
-    <img align="center" width="645px" src="https://github-readme-streak-stats.herokuapp.com/?user=LimunBF&theme=react&hide_border=false" alt="LimunBF streak stats">
-    </a>
-</div>
