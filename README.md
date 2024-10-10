@@ -4,7 +4,9 @@
     Welcome to my profile
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"><br>
     <!-- Typing Effect -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=04a4fc&center=true&vCenter=true&lines=Lorem+ipsum+dolor+sit+amet;Without + You + I'm + No + One!&font=Fira+Code">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Without+You+I'm+No+One" alt="Typing SVG" />
+    </a>
 </h3>
 
 <h2>About me</h2>
