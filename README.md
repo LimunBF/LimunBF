@@ -5,7 +5,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"><br>
     <!-- Typing Effect -->
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Without+You+I'm+No+One" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&vCenter=true&width=270&height=49&lines=Without+You+I'm+No+One" alt="Typing SVG" />
     </a>
 </h3>
 
