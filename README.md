@@ -18,9 +18,6 @@
     <a href="https://www.w3schools.com/js/" target="_blank"><img 
         src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/javascript-colored.svg" width="50"></a>
     <a href="https://nodejs.org/en/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/nodejs-colored.svg" width="50"></a>
-    <a href="https://flask.palletsprojects.com/en/3.0.x/api/" target="_blank"><img 
-        src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/flask.svg" width="50"></a>
-    <a href="https://docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/docker-colored.svg" width="50"></a>
     <a href="https://getbootstrap.com/" target="_blank"><img 
         src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="50"  /></a>
     <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" ><img 
