@@ -14,24 +14,25 @@
 
 <h2>Tech stack</h2>
 <div align="center">
-    <!-- Icon Tech stack -->
-    <a href="https://python.org/"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/python-colored.svg" width="50"></a>
-    <a href="https://www.w3schools.com/js/"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/javascript-colored.svg" width="50"></a>
-    <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/linux-colored.svg" width="50"></a>
-    <a href="https://nodejs.org/en/"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/nodejs-colored.svg" width="50"></a>
-    <a href="https://flask.palletsprojects.com/en/3.0.x/api/"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/flask.svg" width="50"></a>
-    <a href="https://docker.com/"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/docker-colored.svg" width="50"></a>
-</div>
-
-<h1>Test</h1>
-<div href="https://skillicons.dev">
-    <a href="">
-        <img src="https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3">
-    </a>
+    <a href="https://python.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/python-colored.svg" width="50"></a>
+    <a href="https://www.w3schools.com/js/" target="_blank"><img 
+        src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/javascript-colored.svg" width="50"></a>
+    <a href="https://nodejs.org/en/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/nodejs-colored.svg" width="50"></a>
+    <a href="https://flask.palletsprojects.com/en/3.0.x/api/" target="_blank"><img 
+        src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/flask.svg" width="50"></a>
+    <a href="https://docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/docker-colored.svg" width="50"></a>
+    <a href="https://getbootstrap.com/" target="_blank"><img 
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="50"  /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" ><img 
+       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="50"  /></a>
+    <a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="50" /></a>
+    <a href="https://tailwindcss.com/" target="_blank"><img 
+       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="50"/></a>
+    <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="50"/></a>
+    <a href="https://laravel.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="50"/></a>
 </div>
 
 <h2>My Stats</h2>
-
 <div align= "center">
     <a href="https://github.com/LimunBF/github-readme-stats">
         <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LimunBF&show_icons=true&rank_icon=github&theme=radical">
