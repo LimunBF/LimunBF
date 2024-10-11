@@ -23,6 +23,13 @@
     <a href="https://docker.com/"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/docker-colored.svg" width="50"></a>
 </div>
 
+<h1>Test</h1>
+<div href="https://skillicons.dev">
+    <a href="">
+        <img src="https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3">
+    </a>
+</div>
+
 <h2>My Stats</h2>
 
 <div align= "center">
