@@ -1,51 +1,164 @@
-<h1 align="center">Hello World!</h1>
+<h1 align="center">
+    Hi there, I'm Limun! 
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+</h1>
 
 <h3 align="center">
-    Welcome to my profile
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"><br>
-    <!-- Typing Effect -->
-<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=350&lines=Without+Your+Repo+I'm+No+One" alt="Typing SVG" />
-</a>
+    Welcome to my profile ✨<br>
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Without+Your+Repo+I'm+No+One;Full+Stack+Developer;Always+Learning+New+Things;Love+Clean+Code+%26+Dark+Mode" alt="Typing SVG" />
+    </a>
 </h3>
 
-<h2>About me</h2>
-<p>Hello I'm Limun.</p>
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=LimunBF&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+    <img src="https://img.shields.io/github/followers/LimunBF?label=Followers&style=for-the-badge&color=blueviolet" alt="Followers"/>
+    <img src="https://img.shields.io/badge/Focus-Full%20Stack-blueviolet?style=for-the-badge" alt="Focus"/>
+    <img src="https://img.shields.io/badge/Lives-Indonesia-blueviolet?style=for-the-badge" alt="Location"/>
+</p>
 
-<h2>Tech stack</h2>
+---
+
+<h2>👨‍💻 About Me</h2>
+
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+```javascript
+const limun = {
+  name: "Limun",
+  location: "Indonesia 🇮🇩",
+  role: "Full Stack Developer",
+  code: ["JavaScript", "Python", "PHP", "HTML", "CSS"],
+  askMeAbout: ["web dev", "tech", "app dev", "backend"],
+  technologies: {
+    frontEnd: {
+      js: ["React", "Vue"],
+      css: ["Tailwind", "Bootstrap"]
+    },
+    backEnd: {
+      js: ["Node.js", "Express"],
+      php: ["Laravel"],
+      python: ["Flask", "Django"]
+    },
+    databases: ["MySQL", "MongoDB"],
+    tools: ["Git", "Docker", "VS Code"]
+  },
+  currentFocus: "Building cool web apps 🚀",
+  funFact: "There are two ways to write error-free programs; only the third one works. 😄"
+};
+```
+
+- 🔭 I'm currently working on **Personal Projects**
+- 🌱 I'm currently learning **Laravel, Node.js & Docker**
+- 👯 I'm looking to collaborate on **Open Source Projects**
+- 🤝 I'm looking for help with **Backend Architecture**
+- 💬 Ask me about **Python, PHP, JavaScript**
+- 📫 How to reach me: **lintangmunoh@gmail.com**
+- ⚡ Fun fact: **I love clean code and dark mode** 🌙
+
+<br clear="right"/>
+
+---
+
+<h2>🛠️ Tech Stack</h2>
+
+<h3>💻 Languages</h3>
+<p>
+    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/python-colored.svg" width="45" alt="Python"/>
+    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/javascript-colored.svg" width="45" alt="JavaScript"/>
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="45" alt="PHP"/>
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="45" alt="HTML5"/>
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="45" alt="CSS3"/>
+</p>
+
+<h3>⚙️ Frameworks & Libraries</h3>
+<p>
+    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/nodejs-colored.svg" width="45" alt="Node.js"/>
+    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/laravel-colored.svg" width="45" alt="Laravel"/>
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="45" alt="Bootstrap"/>
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="45" alt="TailwindCSS"/>
+</p>
+
+<h3>🗄️ Databases & Tools</h3>
+<p>
+    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/mysql-colored.svg" width="45" alt="MySQL"/>
+    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/mongodb-colored.svg" width="45" alt="MongoDB"/>
+    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/git-colored.svg" width="45" alt="Git"/>
+    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/docker-colored.svg" width="45" alt="Docker"/>
+    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/figma-colored.svg" width="45" alt="Figma"/>
+</p>
+
+---
+
+<h2>📊 My Stats</h2>
 <div align="center">
-    <a href="https://python.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/python-colored.svg" width="50"></a>
-    <a href="https://www.w3schools.com/js/" target="_blank"><img 
-        src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/javascript-colored.svg" width="50"></a>
-    <a href="https://nodejs.org/en/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/nodejs-colored.svg" width="50"></a>
-    <a href="https://getbootstrap.com/" target="_blank"><img 
-        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="50"  /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" ><img 
-       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="50"  /></a>
-    <a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="50" /></a>
-    <a href="https://tailwindcss.com/" target="_blank"><img 
-       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="50"/></a>
-    <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="50"/></a>
-    <a href="https://laravel.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="50"/></a>
-</div>
-
-<h2>My Stats</h2>
-<div align= "center">
     <a href="https://github.com/LimunBF/github-readme-stats">
-        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LimunBF&show_icons=true&rank_icon=github&theme=radical">
+        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LimunBF&show_icons=true&rank_icon=github&theme=radical" alt="GitHub Stats"/>
     </a>
     <a href="https://github.com/LimunBF/github-readme-stats">
-        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LimunBF&layout=compact&theme=radical&description_lines_count=2">
+        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LimunBF&layout=compact&theme=radical&description_lines_count=2" alt="Top Languages"/>
     </a>
 </div>
 
-<h2>Find me at</h2>
-<div align="center">
-    <!-- Icon Sosmed -->
-    <a href="https://github.com/LimunBF"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/socials/github-dark.svg" width=50></a>
-    <a href="https://www.instagram.com/lintangmuktin/"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/socials/instagram-dark.svg" width=50></a>
-    <a href="https://discord.com/users/1026479858219499694"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/socials/discord-dark.svg" width=50></a>
-    <a href="mailto:lintangmukti638@gmail.com"><img src="https://img.icons8.com/ios-filled/50/FFFFFF/secured-letter--v1.png" width=50></a>
+<h2>📈 Contribution Graph</h2>
 
+<div align="center">
+    <img src="https://raw.githubusercontent.com/LimunBF/LimunBF/output/art/activity.svg" alt="Activity Graph"/>
 </div>
 
+<h2>🐍 Snake Eating My Contributions</h2>
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/LimunBF/LimunBF/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+</div>
+
+<!--<h2>📅 Isometric Contribution Calendar</h2>
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/LimunBF/LimunBF/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution"/>
+</div>-->
+
+<h2>🎵 My Favorite Playlist</h2>
+
+<div align="center">
+    <a href="https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M">
+        <img src="https://spotify-github-profile.vercel.app/api/view?uid=31k6j5v5j5j5j5j5j5j5j5j5j5j5&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" width="400" alt="Spotify Playlist"/>
+    </a>
+</div>
+
+---
+
+<h2>✍️ Random Dev Quote</h2>
+
+<div align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
+</div>
+
+---
+
+<h2>🌐 Connect With Me</h2>
+
+<div align="center">
+    <a href="https://github.com/LimunBF" target="_blank">
+        <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/socials/github-dark.svg" width="50" alt="GitHub"/>
+    </a>
+    <a href="https://www.instagram.com/lintangmuktin/" target="_blank">
+        <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/socials/instagram-dark.svg" width="50" alt="Instagram"/>
+    </a>
+    <a href="https://discord.com/users/1026479858219499694" target="_blank">
+        <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/socials/discord-dark.svg" width="50" alt="Discord"/>
+    </a>
+    <a href="mailto:lintangmukti638@gmail.com">
+        <img src="https://img.icons8.com/ios-filled/50/FFFFFF/secured-letter--v1.png" width="50" alt="Email"/>
+    </a>
+</div>
+
+---
+
+<div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=ffffff&animation=twinkling" alt="Footer"/>
+</div>
+
+<p align="center">
+    <i>⭐️ From <a href="https://github.com/LimunBF">LimunBF</a> with ❤️</i>
+</p>
