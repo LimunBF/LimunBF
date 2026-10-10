@@ -16,8 +16,8 @@ jobs:
       - uses: HowardZlh/github-action-shares@v1
         with:
           command: 'user'
-          user: 'LimunBF'
-          output_dir: 'assets'
+          target: 'LimunBF'      # <--- INI DIPERBAIKI (sebelumnya 'user')
+          out-dir: 'assets'      # <--- INI DIPERBAIKI (sebelumnya 'output_dir')
       - name: Commit & Push
         run: |
           git config user.name github-actions
