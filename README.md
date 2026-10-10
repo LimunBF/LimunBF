@@ -100,11 +100,13 @@ const limun = {
     </a>
 </div>
 
+<!--
 <h2>📈 Contribution Graph</h2>
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/LimunBF/LimunBF/output/art/activity.svg" alt="Activity Graph"/>
+    <img src="https://raw.githubusercontent.com/LimunBF/LimunBF/main/github-metrics.svg" alt="Activity Graph"/>
 </div>
+-->
 
 <h2>🐍 Snake Eating My Contributions</h2>
 
@@ -117,14 +119,6 @@ const limun = {
 <div align="center">
     <img src="https://raw.githubusercontent.com/LimunBF/LimunBF/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution"/>
 </div>-->
-
-<h2>🎵 My Favorite Playlist</h2>
-
-<div align="center">
-    <a href="https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M">
-        <img src="https://spotify-github-profile.vercel.app/api/view?uid=31k6j5v5j5j5j5j5j5j5j5j5j5j5&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" width="400" alt="Spotify Playlist"/>
-    </a>
-</div>
 
 ---
 
@@ -160,5 +154,5 @@ const limun = {
 </div>
 
 <p align="center">
-    <i>⭐️ From <a href="https://github.com/LimunBF">LimunBF</a> with ❤️</i>
+    <i>From <a href="https://github.com/LimunBF">LimunBF</a> with Heart</i>
 </p>
