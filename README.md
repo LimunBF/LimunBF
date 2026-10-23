@@ -11,7 +11,7 @@
 </h3>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=LimunBF&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=LimunBF&label=Profile%20Views&color=blueviolet&style=for-the-badge&v=3" alt="Profile Views"/>
     <img src="https://img.shields.io/github/followers/LimunBF?label=Followers&style=for-the-badge&color=blueviolet" alt="Followers"/>
     <img src="https://img.shields.io/badge/Focus-Full%20Stack-blueviolet?style=for-the-badge" alt="Focus"/>
     <img src="https://img.shields.io/badge/Lives-Indonesia-blueviolet?style=for-the-badge" alt="Location"/>
