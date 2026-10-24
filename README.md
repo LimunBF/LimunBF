@@ -27,31 +27,33 @@
 const limun = {
   name: "Limun",
   location: "Indonesia 🇮🇩",
-  role: "Full Stack Developer",
-  code: ["JavaScript", "Python", "PHP", "HTML", "CSS"],
-  askMeAbout: ["web dev", "tech", "app dev", "backend"],
+  role: "Full Stack Developer & Tech Enthusiast",
+  code: ["JavaScript", "TypeScript", "Python", "PHP", "Java", "Rust", "Go"],
+  askMeAbout: ["web dev", "app dev", "backend", "machine learning"],
   technologies: {
     frontEnd: {
-      js: ["React", "Vue"],
-      css: ["Tailwind", "Bootstrap"]
+      frameworks: ["React", "Next.js", "Svelte", "Astro"],
+      mobile: ["React Native", "Flutter"],
+      css_ui: ["Tailwind"]
     },
     backEnd: {
       js: ["Node.js", "Express"],
       php: ["Laravel"],
-      python: ["Flask", "Django"]
+      servers: ["Nginx", "Apache"]
     },
-    databases: ["MySQL", "MongoDB"],
-    tools: ["Git", "Docker", "VS Code"]
+    databases: ["MySQL", "PostgreSQL", "MariaDB", "MongoDB", "Firebase", "Supabase"],
+    dataScience: ["TensorFlow", "PyTorch", "OpenCV", "Pandas", "Anaconda"],
+    tools: ["Git", "GitHub", "GitHub Actions", "Vercel", "Render", "GCP", "JWT"]
   },
-  currentFocus: "Building cool web apps 🚀",
+  currentFocus: "Building cool web apps & exploring AI/ML 🚀",
   funFact: "There are two ways to write error-free programs; only the third one works. 😄"
 };
 ```
 
 - 🔭 I'm currently working on **Personal Projects**
-- 🌱 I'm currently learning **Laravel, Node.js & Docker**
+- 🌱 I'm currently learning **Golang, Node.js & Javascript**
 - 👯 I'm looking to collaborate on **Open Source Projects**
-- 🤝 I'm looking for help with **Backend Architecture**
+- 🤝 I'm looking for help with **Backend Architecture, ML & AI Agent**
 - 💬 Ask me about **Python, PHP, JavaScript**
 - 📫 How to reach me: **lintangmunoh@gmail.com**
 - ⚡ Fun fact: **I love clean code and dark mode** 🌙
@@ -65,31 +67,68 @@ const limun = {
 <h3>💻 Languages</h3>
 <p>
     <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/python-colored.svg" width="45" alt="Python"/>
-    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/javascript-colored.svg" width="45" alt="JavaScript"/>
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="45" alt="PHP"/>
+    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/javascript-colored.svg" width="45" alt="JavaScript"/>
+    <img src="https://skillicons.dev/icons?i=ts" width="45" alt="TypeScript"/>
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="45" alt="HTML5"/>
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="45" alt="CSS3"/>
+    <img src="https://skillicons.dev/icons?i=java" width="45" alt="Java"/>
+    <img src="https://skillicons.dev/icons?i=rust" width="45" alt="Rust"/>
+    <img src="https://skillicons.dev/icons?i=go" width="45" alt="Go"/>
+    <img src="https://skillicons.dev/icons?i=md" width="45" alt="Markdown"/>
 </p>
 
-<h3>⚙️ Frameworks & Libraries</h3>
+<h3>🎨 Frontend & Mobile</h3>
 <p>
-    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/nodejs-colored.svg" width="45" alt="Node.js"/>
-    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/laravel-colored.svg" width="45" alt="Laravel"/>
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="45" alt="Bootstrap"/>
+    <img src="https://skillicons.dev/icons?i=react" width="45" alt="React"/>
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="45" alt="TailwindCSS"/>
+    <img src="https://skillicons.dev/icons?i=nextjs" width="45" alt="Next.js"/>
+    <img src="https://skillicons.dev/icons?i=svelte" width="45" alt="Svelte"/>
+    <img src="https://skillicons.dev/icons?i=astro" width="45" alt="Astro"/>
+    <img src="https://skillicons.dev/icons?i=flutter" width="45" alt="Flutter"/>
 </p>
 
-<h3>🗄️ Databases & Tools</h3>
+<h3>⚙️ Backend & Servers</h3>
+<p>
+    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/laravel-colored.svg" width="45" alt="Laravel"/>
+    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/nodejs-colored.svg" width="45" alt="Node.js"/>
+    <img src="https://skillicons.dev/icons?i=express" width="45" alt="Express"/>
+    <img src="https://skillicons.dev/icons?i=nginx" width="45" alt="Nginx"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="45" alt="Apache"/>
+</p>
+
+<h3>🗄️ Databases & BaaS</h3>
 <p>
     <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/mysql-colored.svg" width="45" alt="MySQL"/>
+    <img src="https://skillicons.dev/icons?i=postgres" width="45" alt="PostgreSQL"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="45" alt="MariaDB"/>
     <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/mongodb-colored.svg" width="45" alt="MongoDB"/>
+    <img src="https://skillicons.dev/icons?i=firebase" width="45" alt="Firebase"/>
+    <img src="https://skillicons.dev/icons?i=supabase" width="45" alt="Supabase"/>
+</p>
+
+<h3>🤖 Data Science & ML</h3>
+<p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="45" alt="Anaconda"/>
+    <img src="https://skillicons.dev/icons?i=tensorflow" width="45" alt="TensorFlow"/>
+    <img src="https://skillicons.dev/icons?i=pytorch" width="45" alt="PyTorch"/>
+    <img src="https://skillicons.dev/icons?i=opencv" width="45" alt="OpenCV"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" alt="Pandas"/>
+</p>
+
+<h3>☁️ Tools, Cloud & DevOps</h3>
+<p>
     <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/git-colored.svg" width="45" alt="Git"/>
-    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/docker-colored.svg" width="45" alt="Docker"/>
+    <img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub"/>
     <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/figma-colored.svg" width="45" alt="Figma"/>
+    <img src="https://skillicons.dev/icons?i=gcp" width="45" alt="GCP"/>
+    <img src="https://skillicons.dev/icons?i=vercel" width="45" alt="Vercel"/>
+    <img src="https://cdn.simpleicons.org/render/white" width="45" alt="Render"/>
+    <img src="https://skillicons.dev/icons?i=githubactions" width="45" alt="GitHub Actions"/>
+    <img src="https://cdn.simpleicons.org/jsonwebtokens/white" width="45" alt="JWT"/>
 </p>
 
 ---
-
 <h2>📊 My Stats</h2>
 <div align="center">
     <a href="https://github.com/LimunBF/github-readme-stats">
