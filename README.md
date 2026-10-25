@@ -181,7 +181,7 @@ const limun = {
     <a href="https://discord.com/users/1026479858219499694" target="_blank">
         <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/socials/discord-dark.svg" width="50" alt="Discord"/>
     </a>
-    <a href="mailto:lintangmukti638@gmail.com">
+    <a href="mailto:lintangmunoh@gmail.com">
         <img src="https://img.icons8.com/ios-filled/50/FFFFFF/secured-letter--v1.png" width="50" alt="Email"/>
     </a>
 </div>
